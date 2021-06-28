@@ -39,7 +39,7 @@ endef
 
 define Package/$(PKG_NAME)/description
   luci for testing internet bandwidth using speedtest.net
-  ookla speedtest by sirpdboy
+  ookla speedtest  
 endef
 
 define Build/Prepare
